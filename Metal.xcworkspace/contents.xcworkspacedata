@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:ambient_occlusion/ao.playground">
+   </FileRef>
+   <FileRef
+      location = "group:ARKit/arkitdemo.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:ch01/chapter01.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:ch02/chapter02.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:ch03/chapter03.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:ch04/chapter04.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:ch05/chapter05.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:ch06/chapter06.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:ch07/chapter07.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:ch08/chapter08.playground">
+   </FileRef>
+   <FileRef
+      location = "group:ch09/chapter09.playground">
+   </FileRef>
+   <FileRef
+      location = "group:ch10/chapter10.playground">
+   </FileRef>
+   <FileRef
+      location = "group:ch11/chapter11.playground">
+   </FileRef>
+   <FileRef
+      location = "group:ch12/chapter12.playground">
+   </FileRef>
+   <FileRef
+      location = "group:ch13/chapter13.playground">
+   </FileRef>
+   <FileRef
+      location = "group:ch14/chapter14.playground">
+   </FileRef>
+   <FileRef
+      location = "group:ch15/chapter15.playground">
+   </FileRef>
+   <FileRef
+      location = "group:ch17/chapter17.playground">
+   </FileRef>
+   <FileRef
+      location = "group:ch18/chapter18.playground">
+   </FileRef>
+   <Group
+      location = "group:memory"
+      name = "memory">
+      <FileRef
+         location = "group:memory_1.playground">
+      </FileRef>
+      <FileRef
+         location = "group:memory_2.playground">
+      </FileRef>
+   </Group>
+   <FileRef
+      location = "group:metal2/metal2.playground">
+   </FileRef>
+   <Group
+      location = "group:particles"
+      name = "particles">
+      <FileRef
+         location = "group:particle.playground">
+      </FileRef>
+      <FileRef
+         location = "group:particle2.playground">
+      </FileRef>
+      <FileRef
+         location = "group:particle3.playground">
+      </FileRef>
+   </Group>
+   <FileRef
+      location = "group:raymarching/raymarching.playground">
+   </FileRef>
+   <Group
+      location = "group:shadows"
+      name = "shadows">
+      <FileRef
+         location = "group:shadows.playground">
+      </FileRef>
+      <FileRef
+         location = "group:shadows2.playground">
+      </FileRef>
+   </Group>
+</Workspace>
